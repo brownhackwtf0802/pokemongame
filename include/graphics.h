@@ -3401,4 +3401,11 @@ extern const u32 gBattleIcons_Gfx2[];
 extern const u16 gBattleIcons_Pal1[];
 extern const u16 gBattleIcons_Pal2[];
 
+// My Trainer Classes
+extern const u32 gTrainerFrontPic_GhostClass[];
+extern const u32 gTranerPalette_GhostClass[];
+
+extern const u32 gTrainerFrontPic_SoapClass[];
+extern const u32 gTranerPalette_SoapClass[];
+
 #endif //GUARD_GRAPHICS_H
