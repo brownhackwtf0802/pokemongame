@@ -9667,7 +9667,7 @@ Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_ROUTE_103_MUDKIP ===
-Name: MAY
+Name: May
 Class: Rival
 Pic: May
 Gender: Female
@@ -9777,11 +9777,11 @@ Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_ROUTE_103_TORCHIC ===
-Name: MAY
-Class: Rival
-Pic: May
-Gender: Female
-Music: Female
+Name: Johnny
+Class: TF141
+Pic: Soap
+Gender: Male
+Music: Male
 Double Battle: No
 AI: Basic Trainer
 
